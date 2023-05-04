@@ -131,7 +131,7 @@ const choices = [
     "at a circus performance.",
     "in a space shuttle orbiting the Earth.",
     "in a virtual reality gaming tournament.",
-    "in a paintball arena."
+    "in a paintball arena.",
     "on a rollercoaster at an amusement park.",
     "in the middle of a crowded shopping mall.",
     "at a retirement home bingo night.",
