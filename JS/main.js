@@ -111,7 +111,7 @@ const choices = [
     "at a desolate train station.",
     "in a spectral ballroom.",
     "in a ruined church.",
-    "on a moonlit bridge."
+    "on a moonlit bridge.",
     "in the cockpit of a plane mid-flight.",
     "at a drive-in movie theater.",
     "in a sauna at a fitness center.",
@@ -146,7 +146,7 @@ const choices = [
     "in a library during a quiet study session.",
     "at a cooking class with a famous chef.",
     "in a recording studio with a famous musician.",
-    "in a TV game show audience."
+    "in a TV game show audience.",
 ];
 
 function getChoice() {
